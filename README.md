@@ -17,6 +17,6 @@
 
 Da uma olhadinha também no instagram do [Descomplica Estatística](https://www.instagram.com/descomplicaestatistica/) e no canal do [Youtube](https://www.youtube.com/channel/UCh7holfA6lXAeKPFHIqeOwQ/featured).
 
-![Banner Principal](https://github.com/AnaCarolinaFDias/Welcome/blob/main/Aulas.png)
+![Banner Principal](https://github.com/AnaCarolinaFDias/AnaCarolinaFDias/blob/main/Aulas.png)
 
 ![](https://komarev.com/ghpvc/?username=AnaCarolinaFDias&color=ff69b4)
